@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "fSxT8ICbN7zs/c3m1dJ3bNeSr5WNA7N6BJS60tf2UoHlCm74I83MMgcpgiMwM98u4TB6EF/LmlGYYMuKLsdrOQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rmali\\source\\repos\\AWSLambdaDynamo\\AWSLambdaDynamo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rmali\\.nuget\\packages\\amazon.lambda.core\\1.1.0\\amazon.lambda.core.1.1.0.nupkg.sha512",
+    "C:\\Users\\Rmali\\.nuget\\packages\\amazon.lambda.dynamodbevents\\1.1.0\\amazon.lambda.dynamodbevents.1.1.0.nupkg.sha512",
+    "C:\\Users\\Rmali\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.0.0\\amazon.lambda.serialization.systemtextjson.2.0.0.nupkg.sha512",
+    "C:\\Users\\Rmali\\.nuget\\packages\\awssdk.core\\3.3.106.12\\awssdk.core.3.3.106.12.nupkg.sha512",
+    "C:\\Users\\Rmali\\.nuget\\packages\\awssdk.dynamodbv2\\3.3.105.34\\awssdk.dynamodbv2.3.3.105.34.nupkg.sha512"
+  ],
+  "logs": []
+}

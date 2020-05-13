@@ -1,0 +1,12 @@
+C:\Users\Rmali\source\repos\AWSLambdaDynamo\bin\Release\netcoreapp3.1\linux-x64\AWSLambdaDynamo.deps.json
+C:\Users\Rmali\source\repos\AWSLambdaDynamo\bin\Release\netcoreapp3.1\linux-x64\AWSLambdaDynamo.runtimeconfig.json
+C:\Users\Rmali\source\repos\AWSLambdaDynamo\bin\Release\netcoreapp3.1\linux-x64\AWSLambdaDynamo.runtimeconfig.dev.json
+C:\Users\Rmali\source\repos\AWSLambdaDynamo\bin\Release\netcoreapp3.1\linux-x64\AWSLambdaDynamo.dll
+C:\Users\Rmali\source\repos\AWSLambdaDynamo\bin\Release\netcoreapp3.1\linux-x64\AWSLambdaDynamo.pdb
+C:\Users\Rmali\source\repos\AWSLambdaDynamo\obj\Release\netcoreapp3.1\linux-x64\AWSLambdaDynamo.csprojAssemblyReference.cache
+C:\Users\Rmali\source\repos\AWSLambdaDynamo\obj\Release\netcoreapp3.1\linux-x64\AWSLambdaDynamo.csproj.CoreCompileInputs.cache
+C:\Users\Rmali\source\repos\AWSLambdaDynamo\obj\Release\netcoreapp3.1\linux-x64\AWSLambdaDynamo.AssemblyInfoInputs.cache
+C:\Users\Rmali\source\repos\AWSLambdaDynamo\obj\Release\netcoreapp3.1\linux-x64\AWSLambdaDynamo.AssemblyInfo.cs
+C:\Users\Rmali\source\repos\AWSLambdaDynamo\obj\Release\netcoreapp3.1\linux-x64\AWSLambdaDynamo.dll
+C:\Users\Rmali\source\repos\AWSLambdaDynamo\obj\Release\netcoreapp3.1\linux-x64\AWSLambdaDynamo.pdb
+C:\Users\Rmali\source\repos\AWSLambdaDynamo\obj\Release\netcoreapp3.1\linux-x64\AWSLambdaDynamo.genruntimeconfig.cache
