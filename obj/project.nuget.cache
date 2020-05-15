@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fSxT8ICbN7zs/c3m1dJ3bNeSr5WNA7N6BJS60tf2UoHlCm74I83MMgcpgiMwM98u4TB6EF/LmlGYYMuKLsdrOQ==",
+  "dgSpecHash": "S4yTx6pETW81Ir19QHpQAcY33k7PiNHODxLgMClc1cLbhmtExAK+VxgYOx51TtBplmELdT5jkZBGLbG4U4gwDA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Rmali\\source\\repos\\AWSLambdaDynamo\\AWSLambdaDynamo.csproj",
+  "projectFilePath": "C:\\Users\\Rmali\\OneDrive - Nice Systems Ltd\\Documents\\GitHub\\DynamoTriggerToAwsFunction\\AWSLambdaDynamo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Rmali\\.nuget\\packages\\amazon.lambda.core\\1.1.0\\amazon.lambda.core.1.1.0.nupkg.sha512",
     "C:\\Users\\Rmali\\.nuget\\packages\\amazon.lambda.dynamodbevents\\1.1.0\\amazon.lambda.dynamodbevents.1.1.0.nupkg.sha512",

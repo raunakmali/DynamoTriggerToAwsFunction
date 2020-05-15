@@ -19,6 +19,7 @@ namespace AWSLambdaDynamo
 
             foreach (var record in dynamoEvent.Records)
             {
+                context.Logger.LogLine("This is Github");
                 context.Logger.LogLine($"Event ID: {record.EventID}");
                 context.Logger.LogLine($"Event Name: {record.EventName}");
 				

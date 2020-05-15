@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Rmali\\source\\repos\\AWSLambdaDynamo\\AWSLambdaDynamo.csproj": {}
+    "C:\\Users\\Rmali\\OneDrive - Nice Systems Ltd\\Documents\\GitHub\\DynamoTriggerToAwsFunction\\AWSLambdaDynamo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Rmali\\source\\repos\\AWSLambdaDynamo\\AWSLambdaDynamo.csproj": {
+    "C:\\Users\\Rmali\\OneDrive - Nice Systems Ltd\\Documents\\GitHub\\DynamoTriggerToAwsFunction\\AWSLambdaDynamo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Rmali\\source\\repos\\AWSLambdaDynamo\\AWSLambdaDynamo.csproj",
+        "projectUniqueName": "C:\\Users\\Rmali\\OneDrive - Nice Systems Ltd\\Documents\\GitHub\\DynamoTriggerToAwsFunction\\AWSLambdaDynamo.csproj",
         "projectName": "AWSLambdaDynamo",
-        "projectPath": "C:\\Users\\Rmali\\source\\repos\\AWSLambdaDynamo\\AWSLambdaDynamo.csproj",
+        "projectPath": "C:\\Users\\Rmali\\OneDrive - Nice Systems Ltd\\Documents\\GitHub\\DynamoTriggerToAwsFunction\\AWSLambdaDynamo.csproj",
         "packagesPath": "C:\\Users\\Rmali\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Rmali\\source\\repos\\AWSLambdaDynamo\\obj\\",
+        "outputPath": "C:\\Users\\Rmali\\OneDrive - Nice Systems Ltd\\Documents\\GitHub\\DynamoTriggerToAwsFunction\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -76,11 +76,6 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "linux-x64": {
-          "#import": []
         }
       }
     }

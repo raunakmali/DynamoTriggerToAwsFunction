@@ -1,0 +1,12 @@
+C:\Users\Rmali\OneDrive - Nice Systems Ltd\Documents\GitHub\DynamoTriggerToAwsFunction\bin\Debug\netcoreapp3.1\AWSLambdaDynamo.deps.json
+C:\Users\Rmali\OneDrive - Nice Systems Ltd\Documents\GitHub\DynamoTriggerToAwsFunction\bin\Debug\netcoreapp3.1\AWSLambdaDynamo.runtimeconfig.json
+C:\Users\Rmali\OneDrive - Nice Systems Ltd\Documents\GitHub\DynamoTriggerToAwsFunction\bin\Debug\netcoreapp3.1\AWSLambdaDynamo.runtimeconfig.dev.json
+C:\Users\Rmali\OneDrive - Nice Systems Ltd\Documents\GitHub\DynamoTriggerToAwsFunction\bin\Debug\netcoreapp3.1\AWSLambdaDynamo.dll
+C:\Users\Rmali\OneDrive - Nice Systems Ltd\Documents\GitHub\DynamoTriggerToAwsFunction\bin\Debug\netcoreapp3.1\AWSLambdaDynamo.pdb
+C:\Users\Rmali\OneDrive - Nice Systems Ltd\Documents\GitHub\DynamoTriggerToAwsFunction\obj\Debug\netcoreapp3.1\AWSLambdaDynamo.csprojAssemblyReference.cache
+C:\Users\Rmali\OneDrive - Nice Systems Ltd\Documents\GitHub\DynamoTriggerToAwsFunction\obj\Debug\netcoreapp3.1\AWSLambdaDynamo.csproj.CoreCompileInputs.cache
+C:\Users\Rmali\OneDrive - Nice Systems Ltd\Documents\GitHub\DynamoTriggerToAwsFunction\obj\Debug\netcoreapp3.1\AWSLambdaDynamo.AssemblyInfoInputs.cache
+C:\Users\Rmali\OneDrive - Nice Systems Ltd\Documents\GitHub\DynamoTriggerToAwsFunction\obj\Debug\netcoreapp3.1\AWSLambdaDynamo.AssemblyInfo.cs
+C:\Users\Rmali\OneDrive - Nice Systems Ltd\Documents\GitHub\DynamoTriggerToAwsFunction\obj\Debug\netcoreapp3.1\AWSLambdaDynamo.dll
+C:\Users\Rmali\OneDrive - Nice Systems Ltd\Documents\GitHub\DynamoTriggerToAwsFunction\obj\Debug\netcoreapp3.1\AWSLambdaDynamo.pdb
+C:\Users\Rmali\OneDrive - Nice Systems Ltd\Documents\GitHub\DynamoTriggerToAwsFunction\obj\Debug\netcoreapp3.1\AWSLambdaDynamo.genruntimeconfig.cache
