@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "S4yTx6pETW81Ir19QHpQAcY33k7PiNHODxLgMClc1cLbhmtExAK+VxgYOx51TtBplmELdT5jkZBGLbG4U4gwDA==",
+  "dgSpecHash": "2ggUB2v/UQkoj2BWTeR9nl9f8LnMY01QihoMniwvSX/6+9023ykqnKyMu2yCLNA6Pmq5bI+CQX+42QEmYuVMqA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Rmali\\OneDrive - Nice Systems Ltd\\Documents\\GitHub\\DynamoTriggerToAwsFunction\\AWSLambdaDynamo.csproj",
   "expectedPackageFiles": [
