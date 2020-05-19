@@ -13,20 +13,9 @@ namespace AWSLambdaDynamo
 {
     public class Function
     {
-        public void FunctionHandler(DynamoDBEvent dynamoEvent, ILambdaContext context)
+        public string FunctionHandler(string input, ILambdaContext context)
         {
-            context.Logger.LogLine($"Beginning to process {dynamoEvent.Records.Count} records...");
-
-            foreach (var record in dynamoEvent.Records)
-            {
-                context.Logger.LogLine("This is Github");
-                context.Logger.LogLine($"Event ID: {record.EventID}");
-                context.Logger.LogLine($"Event Name: {record.EventName}");
-				
-				// TODO: Add business logic processing the record.Dynamodb object.
-            }
-
-            context.Logger.LogLine("Stream processing complete.");
+            return input?.ToUpper();
         }
     }
 }
