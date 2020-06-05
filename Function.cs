@@ -15,7 +15,7 @@ namespace AWSLambdaDynamo
     {
         public string FunctionHandler(string input, ILambdaContext context)
         {
-           return input?.ToUpper()+" v2";
+           return input?.ToUpper()+" v3";
         }
     }
 }
